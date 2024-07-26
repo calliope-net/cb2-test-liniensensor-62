@@ -1,0 +1,26 @@
+{
+    "name": "cb2-test-liniensensor-62",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "fernsteuerung": "github:calliope-net/fernsteuerung#v0.12.0",
+        "i2c": "github:calliope-net/i2c#v2.1.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.41",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
