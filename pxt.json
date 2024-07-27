@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "v2": "*",
-        "fernsteuerung": "github:calliope-net/fernsteuerung#v0.12.2",
+        "fernsteuerung": "github:calliope-net/fernsteuerung#v0.12.3",
         "i2c": "github:calliope-net/i2c#v2.1.1",
         "bit": "github:calliope-net/bit#v1.3.4"
     },
